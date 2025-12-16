@@ -1,0 +1,5 @@
+{
+  "name": "FlowDrop",
+  "description": "A minimalist, high-speed local file transfer tool supporting cross-platform sharing with AI-powered file insights.",
+  "requestFramePermissions": []
+}
